@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1536190708 source:/home/profesor/Ernesto/LABO1/Clase04/clase_05/main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
+1535674282 /home/profesor/Ernesto/LABO1/Clase04/clase_05/utn.h
+
+1536188598 source:/home/profesor/Ernesto/LABO1/Clase04/clase_05/utn.c
+	<stdio_ext.h>
+	<stdlib.h>
+	"utn.h"
+
+1536188598 source:/home/alumno/Escritorio/CLASE_05/utn.c
+	<stdio_ext.h>
+	<stdlib.h>
+	"utn.h"
+
+1535674282 /home/alumno/Escritorio/CLASE_05/utn.h
+
+1536280730 source:/home/alumno/Escritorio/CLASE_05/main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"array.h"
+
+1536280671 /home/alumno/Escritorio/CLASE_05/array.h
+
+1536276989 /home/alumno/Escritorio/CLASE_05/array.c
+	<stdio.h>
+	"array.h"
+
+1536280923 source:/home/alumno/Escritorio/CLASE_05/array.c
+	<stdio.h>
+	"array.h"
+
