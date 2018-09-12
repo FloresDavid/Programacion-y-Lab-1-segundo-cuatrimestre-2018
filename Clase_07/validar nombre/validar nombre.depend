@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1536714979 source:/home/alumno/Documentos/clasesProgramacionLabPrimerCuatrimestre/Clase_06/validar nombre/funciones.c
+	<ctype.h>
+	<stdio_ext.h>
+	<string.h>
+
+1536714995 source:/home/alumno/Documentos/clasesProgramacionLabPrimerCuatrimestre/Clase_06/validar nombre/main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+
+1536712409 /home/alumno/Documentos/clasesProgramacionLabPrimerCuatrimestre/Clase_06/validar nombre/funciones.h
+

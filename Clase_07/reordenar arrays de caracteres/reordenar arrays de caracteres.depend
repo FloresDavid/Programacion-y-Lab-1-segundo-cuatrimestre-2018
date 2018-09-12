@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1536703823 source:/home/alumno/Documentos/clasesProgramacionLabPrimerCuatrimestre/Clase_06/reordenar arrays de caracteres/funciones.c
+
+1536713129 source:/home/alumno/Documentos/clasesProgramacionLabPrimerCuatrimestre/Clase_06/reordenar arrays de caracteres/main.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1536703944 /home/alumno/Documentos/clasesProgramacionLabPrimerCuatrimestre/Clase_06/reordenar arrays de caracteres/funciones.h
+
